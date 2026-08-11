@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte de um desafio prático pela plataforma 
 2.  **Seleção do Vetor:** No menu principal, foi selecionada a opção `2) Website Attack Vectors`.
 3.  **Definição do Método:** A escolha seguiu para a opção `3) Credential Harvester Attack Method` para preparar o servidor focado em capturar formulários de texto.
 4.  **Configuração de Origem:** Selecionou-se a opção `1) Web Templates` para carregar páginas clonadas que funcionam localmente.
-5.  **Configuração de Rede:** O endereço IP local da máquina virtual (`192.168.18.76`) foi confirmado como o servidor de escuta (POST back).
+5.  **Configuração de Rede:** O endereço IP local da máquina virtual (`192.168.-.-`) foi confirmado como o servidor de escuta (POST back).
 6.  **Ativação do Template:** Foi escolhido o template numérico correspondente ao **Google** (Opção 2), iniciando o servidor web na porta padrão `80`.
 
 ---
